@@ -1,0 +1,7 @@
+{
+  "name": "Zomato Clone - Indian Food Delivery",
+  "description": "A comprehensive food delivery platform with multi-user roles (Customer, Restaurant, Delivery, Admin), real-time tracking, and INR payment support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
